@@ -4,7 +4,7 @@ Analysis of historical stock market data for 7 major companies:
 Apple, Google, Microsoft, Amazon, Tesla, Meta, and Netflix.
 
 ## Dashboard
-[Zobacz interaktywny dashboard →]https://datastudio.google.com/reporting/771c6d7e-3a23-443c-b698-ee7f0c4b036a
+https://datastudio.google.com/reporting/771c6d7e-3a23-443c-b698-ee7f0c4b036a
 
 ![Dashboard Preview](dashboard/visstock.png)
 
